@@ -1,10 +1,15 @@
 # DataScienceBootcampCase
 My notes and exercises regarding Complete Data Science Training Bootcamp: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine &amp; Deep Learning
 
+1. Preprocessing -  We preprocess the data.
+2. Machine learning - This section will incorporate the work we did in the preprocessing part into the code necessary for making the next step. We used a logistic regression model and other machine learning tools and techniques.
+3. absenteeism_ - Python version of the whole work we've done, that could be passed to the other workers
+4. Export data - General table for our data, result of the work done above
+5. Used Tableau to analyse separate dependencies between the inputs of our model.
 
-The course provides the entire toolbox you need to become a data scientist
-- Fill up your resume with in demand data science skills: Statistical analysis, Python programming with NumPy, pandas, matplotlib, and Seaborn, Advanced statistical analysis, Tableau, Machine Learning with stats models and scikit-learn, Deep learning with TensorFlow
-- Learn how to pre-process data
+The course provided an entire toolbox needed to become a data scientist
+- In demand data science skills: Statistical analysis, Python programming with NumPy, pandas, matplotlib, and Seaborn, Advanced statistical analysis, Tableau, Machine Learning with stats models and scikit-learn, Deep learning with TensorFlow
+- How to pre-process data
 - Understand the mathematics behind Machine Learning (an absolute must which other courses don’t teach!)
 - Start coding in Python and learn how to use it for statistical analysis
 - Perform linear and logistic regressions in Python
